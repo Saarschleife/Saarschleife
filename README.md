@@ -1,5 +1,16 @@
-Saarschleife
+Hallo, ich bin Saarschleife
 
+### Über mich
 Fachinformatikerin für Anwendungsentwicklung
+Abschluss 06/2026
 
-Umschulung abgeschlossen 07 / 2025
+
+### Projekte
+  # BliesTour
+
+  # 
+
+  
+
+### Tools
+
