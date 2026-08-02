@@ -3,7 +3,7 @@
 # Über mich
 Fachinformatikerin für Anwendungsentwicklung (IHK)
 Abschluss 06/2026  
-Ich entwickle Webanwendungen und interessiere mich für Archäologie. In meinen Projekte versuche ich, beides zu verbinden.
+Ich entwickle Webanwendungen und interessiere mich für Archäologie. In meinen Projekten versuche ich, beides zu verbinden.
 #
 #
 # Schwerpunkte
