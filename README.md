@@ -11,7 +11,7 @@ Ich entwickle Webanwendungen und interessiere mich für Archäologie. In meinen 
   * HTML
   * CSS
         
-* ** Aktuell im Aufbau durch Selbststudium und verschiedene laufende Projekte:**
+* **Aktuell im Aufbau durch Selbststudium und verschiedene laufende Projekte:**
   * JavaScript
   * REST-APIs
   * Spring Boot (Backend, Grundlagen)
@@ -20,7 +20,7 @@ Ich entwickle Webanwendungen und interessiere mich für Archäologie. In meinen 
 #
 # Projekte
   ### Historische Fundorte (Lernprojekt)
-* **Beschreibung:** Eine im Rahmen meines Selbstrudiums entwickelte Fullstack-Webanwendung zur Erfassung und interaktiven Kartendarstellung historischer Fundorte.
+* **Beschreibung:** Eine im Rahmen meines Selbstrudiums entwickelte Webanwendung zur Erfassung und interaktiven Kartendarstellung historischer Fundorte.
 * **Umsetzung & Lernziele:** 
   * Umgesetzt als praxisnahes Lernprojekt unter gezieltem Einsatz von KI-Assistenz zur Konzeption, Code-Strukturierung und zum Erlernen neuer Frameworks.
   * Erstellung eines einfachen Java-Spring-Boot-Backends mit REST-Endpunkten
