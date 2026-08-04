@@ -20,15 +20,16 @@ Ich entwickle Webanwendungen und interessiere mich für Archäologie. In meinen 
 #
 # Projekte
   ### Historische Fundorte (Lernprojekt)
-* **Beschreibung:** Eine im Rahmen meines Selbstrudiums entwickelte Webanwendung zur Erfassung und interaktiven Kartendarstellung historischer Fundorte.
+* **Beschreibung:** Eine im Rahmen meines Selbstudiums entwickelte Webanwendung zur Erfassung und interaktiven Kartendarstellung historischer Fundorte.
 * **Umsetzung & Lernziele:** 
   * Umgesetzt als praxisnahes Lernprojekt unter gezieltem Einsatz von KI-Assistenz zur Konzeption, Code-Strukturierung und zum Erlernen neuer Frameworks.
   * Erstellung eines einfachen Java-Spring-Boot-Backends mit REST-Endpunkten
   * Integration einer Leaflet.js-Karte im Frontend
   * Erste Schritte mit Git, Commit-Strukturen und Versionsverwaltung
-* **GitHub-Repository:** [https://github.com/Saarschleife/historische_Fundorte](https://github.com/Saarschleife/historische_Fundorte)
-
-  
+* **mögliche Erweiterungen:**
+  * Umkreissuche um einen ausgewählten Fundort
+  * unterschiedliche Markierungen für verschiedene Kategorien
+* * **GitHub-Repository:** [https://github.com/Saarschleife/historische_Fundorte](https://github.com/Saarschleife/historische_Fundorte)
   
   
 
