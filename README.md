@@ -28,8 +28,8 @@ Ich entwickle Webanwendungen und interessiere mich für Archäologie. In meinen 
   * Erste Schritte mit Git, Commit-Strukturen und Versionsverwaltung
 * **mögliche Erweiterungen:**
   * Umkreissuche um einen ausgewählten Fundort
-  * unterschiedliche Markierungen für verschiedene Kategorien
-* * **GitHub-Repository:** [https://github.com/Saarschleife/historische_Fundorte](https://github.com/Saarschleife/historische_Fundorte)
+  * unterschiedliche Markierungen für verschiedene Kategorie
+* **GitHub-Repository:** [https://github.com/Saarschleife/historische_Fundorte](https://github.com/Saarschleife/historische_Fundorte)
   
   
 
