@@ -29,13 +29,14 @@ Ich entwickle Webanwendungen und interessiere mich für Archäologie. In meinen 
 * **mögliche Erweiterungen:**
   * Umkreissuche um einen ausgewählten Fundort
   * unterschiedliche Markierungen für verschiedene Kategorie
-* **GitHub-Repository:** [https://github.com/Saarschleife/historische_Fundorte](https://github.com/Saarschleife/historische_Fundorte)
+* **GitHub-Repository:** https://github.com/Saarschleife/historische_Fundorte
 * 
 
  ### archäologische Sehenswürdigkeiten (Lernprojekt)
  * **Beschreibung:** Eine erweiterte Version des Projektes historische Fundorte. In Arbeit.
  * 
-* **GitHub-Repository:** 
- * 
+* **GitHub-Repository:** https://github.com/Saarschleife/archaeologische_sehenswuerdigkeiten
+  
+   
   
 
