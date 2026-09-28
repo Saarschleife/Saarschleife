@@ -6,7 +6,7 @@ Abschluss 06/2026
 Ich entwickle Webanwendungen und interessiere mich für Archäologie. In meinen Projekten versuche ich, beides zu verbinden.
 #
 # # Kenntnisse und aktueller Lernstand
-* **erweiterte Grundkenntnisse:**
+* **gute Grundkenntnisse:**
   * Java
   * HTML
   * CSS
@@ -16,7 +16,7 @@ Ich entwickle Webanwendungen und interessiere mich für Archäologie. In meinen 
   * REST-APIs
   * Spring Boot (Backend, Grundlagen)
   * Leaflet.js (Karten-Integration, Grundlagen)
-  * Git und GitHub (Versionsverwaltung
+  * Git und GitHub (Versionsverwaltung)
 #
 # Projekte
   ### Historische Fundorte (Lernprojekt)
