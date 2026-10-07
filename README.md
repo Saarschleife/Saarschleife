@@ -32,7 +32,7 @@ Ich entwickle Webanwendungen und interessiere mich für Archäologie. In meinen 
 * **GitHub-Repository:** https://github.com/Saarschleife/historische_Fundorte
 * 
 
- ### archäologische Sehenswürdigkeiten 
+ ### Archäologische Sehenswürdigkeiten 
  * **Beschreibung:** Eine erweiterte Version des Projektes historische Fundorte. In Arbeit.
    
 * **GitHub-Repository:** https://github.com/Saarschleife/archaeologische_sehenswuerdigkeiten
