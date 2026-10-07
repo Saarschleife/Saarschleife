@@ -19,7 +19,7 @@ Ich entwickle Webanwendungen und interessiere mich für Archäologie. In meinen 
   * Git und GitHub (Versionsverwaltung)
 #
 # Projekte
-  ### Historische Fundorte (Lernprojekt)
+  ### Historische Fundorte 
 * **Beschreibung:** Eine im Rahmen meines Selbstudiums entwickelte Webanwendung zur Erfassung und interaktiven Kartendarstellung historischer Fundorte.
 * **Umsetzung & Lernziele:** 
   * Umgesetzt als praxisnahes Lernprojekt unter gezieltem Einsatz von KI-Assistenz zur Konzeption, Code-Strukturierung und zum Erlernen neuer Frameworks.
@@ -32,7 +32,7 @@ Ich entwickle Webanwendungen und interessiere mich für Archäologie. In meinen 
 * **GitHub-Repository:** https://github.com/Saarschleife/historische_Fundorte
 * 
 
- ### archäologische Sehenswürdigkeiten (Lernprojekt)
+ ### archäologische Sehenswürdigkeiten 
  * **Beschreibung:** Eine erweiterte Version des Projektes historische Fundorte. In Arbeit.
    
 * **GitHub-Repository:** https://github.com/Saarschleife/archaeologische_sehenswuerdigkeiten
