@@ -1,41 +1,29 @@
 # Hallo, ich bin Saarschleife
 
-# Über mich
-Fachinformatiker für Anwendungsentwicklung (IHK)
-Abschluss 06/2026  
+Fachinformatiker/in für Anwendungsentwicklung (IHK, 06/2026).
 Ich entwickle Webanwendungen und interessiere mich für Archäologie. In meinen Projekten versuche ich, beides zu verbinden.
-#
-# # Kenntnisse und aktueller Lernstand
-* **gute Grundkenntnisse:**
-  * Java
-  * HTML
-  * CSS
-        
-* **Aktuell im Aufbau durch Selbststudium und verschiedene laufende Projekte:**
-  * JavaScript
-  * REST-APIs
-  * Spring Boot (Backend, Grundlagen)
-  * Leaflet.js (Karten-Integration, Grundlagen)
-  * Git und GitHub (Versionsverwaltung)
-#
-# Projekte
-  ### Historische Fundorte 
-* **Beschreibung:** Eine im Rahmen meines Selbstudiums entwickelte Webanwendung zur Erfassung und interaktiven Kartendarstellung historischer Fundorte.
-* **Umsetzung & Lernziele:** 
-  * Umgesetzt als praxisnahes Lernprojekt unter gezieltem Einsatz von KI-Assistenz zur Konzeption, Code-Strukturierung und zum Erlernen neuer Frameworks.
-  * Erstellung eines einfachen Java-Spring-Boot-Backends mit REST-Endpunkten
-  * Integration einer Leaflet.js-Karte im Frontend
-  * Erste Schritte mit Git, Commit-Strukturen und Versionsverwaltung
-* **mögliche Erweiterungen:**
-  * Umkreissuche um einen ausgewählten Fundort
-  * unterschiedliche Markierungen für verschiedene Kategorie
-* **GitHub-Repository:** https://github.com/Saarschleife/historische_Fundorte
-* 
 
- ### Archäologische Sehenswürdigkeiten 
- * **Beschreibung:** Eine erweiterte Version des Projektes historische Fundorte. In Arbeit.
-   
-* **GitHub-Repository:** https://github.com/Saarschleife/archaeologische_sehenswuerdigkeiten
+## Kenntnisse und aktueller Lernstand
+
+| Bereich | Kenntnisse |
+|---|---|
+| Programmiersprachen | Java (Grundkenntnisse), JavaScript (erste Erfahrungen) |
+| Frameworks und Bibliotheken | Spring Boot (Grundkenntnisse), Leaflet.js |
+| Webtechnologien | HTML, CSS, REST-APIs |
+| Datenbanken | SQL (Grundkenntnisse), PostgreSQL (erste Erfahrungen) |
+| Werkzeuge | Eclipse IDE, Visual Studio Code, Git/GitHub |
+
+## Projekte
+
+### Historische Fundorte
+
+Webanwendung zur Erfassung und interaktiven Kartendarstellung historischer Fundorte, entwickelt im Selbststudium mit gezielter KI-Unterstützung (Konzeption, Code-Strukturierung, Einarbeitung in neue Frameworks).
+
+- Java-Spring-Boot-Backend mit REST-Endpunkten
+- Frontend mit Leaflet.js-Karte
+- Versionsverwaltung mit Git/GitHub
+
+[Zum Repository](https://github.com/Saarschleife/historische_Fundorte)
   
    
   
